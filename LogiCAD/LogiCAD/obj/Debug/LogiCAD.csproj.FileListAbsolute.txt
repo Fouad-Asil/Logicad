@@ -1,0 +1,12 @@
+D:\EEE425\LogiCAD\LogiCAD\LogiCAD\bin\Debug\LogiCAD.exe.config
+D:\EEE425\LogiCAD\LogiCAD\LogiCAD\obj\Debug\LogiCAD.Properties.Resources.resources
+D:\EEE425\LogiCAD\LogiCAD\LogiCAD\obj\Debug\LogiCAD.csproj.GenerateResource.Cache
+D:\EEE425\LogiCAD\LogiCAD\LogiCAD\bin\Debug\LogiCAD.exe
+D:\EEE425\LogiCAD\LogiCAD\LogiCAD\bin\Debug\LogiCAD.pdb
+D:\EEE425\LogiCAD\LogiCAD\LogiCAD\obj\Debug\LogiCAD.Form1.resources
+D:\EEE425\LogiCAD\LogiCAD\LogiCAD\obj\Debug\LogiCAD.exe
+D:\EEE425\LogiCAD\LogiCAD\LogiCAD\obj\Debug\LogiCAD.pdb
+D:\EEE425\LogiCAD\LogiCAD\LogiCAD\obj\Debug\LogiCAD.csprojResolveAssemblyReference.cache
+D:\EEE425\my project\LogiCAD\LogiCAD\bin\Debug\LogiCAD.exe.config
+D:\EEE425\my project\LogiCAD\LogiCAD\obj\Debug\LogiCAD.exe
+D:\EEE425\my project\LogiCAD\LogiCAD\obj\Debug\LogiCAD.pdb
